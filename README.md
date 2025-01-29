@@ -58,8 +58,10 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Clean%20Code%20JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp
 </div>
 
 <br>
