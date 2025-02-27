@@ -14,7 +14,7 @@
 
 <div align='center'>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=Vue.js&logoColor=#4FC08D" />&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=4FC08D" />&nbsp
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/React%20Native-20232a.svg?style=for-the-badge&logo=React&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=61DAFB" />&nbsp
